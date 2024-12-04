@@ -10,7 +10,7 @@ Highcharts.chart('container', {
     },
     subtitle: {
         text:
-        '資料來源；交通部觀光屬觀光統計資料庫'
+        '資料來源:交通部觀光屬觀光統計資料庫'
     },
     plotOptions: {
         series: {
